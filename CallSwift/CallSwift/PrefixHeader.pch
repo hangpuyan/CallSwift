@@ -1,0 +1,20 @@
+//
+//  PrefixHeader.pch
+//  CallSwift
+//
+//  Created by Yan on 16/12/11.
+//  Copyright © 2016年 YY. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "ViewController.h"
+
+/**
+  系统隐式创建的调用Swift文件的头文件
+  项目名-Swift.h
+ */
+#import "CallSwift-Swift.h"
+
+#endif /* PrefixHeader_pch */
